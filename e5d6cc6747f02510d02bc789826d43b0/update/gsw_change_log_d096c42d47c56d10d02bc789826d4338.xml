@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2023-02-15 21:27:45</change_date>
+        <changed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</changed_by>
+        <content display_value="HR Agent Workspace Guided Setup">b57603fa77b300109eaff9933b10616e</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-15 21:27:45</sys_created_on>
+        <sys_id>d096c42d47c56d10d02bc789826d4338</sys_id>
+        <sys_name>2023-02-15 21:27:45</sys_name>
+        <sys_package display_value="World Glaciers Spoke" source="x_122195_world_gla">e5d6cc6747f02510d02bc789826d43b0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="World Glaciers Spoke">e5d6cc6747f02510d02bc789826d43b0</sys_scope>
+        <sys_update_name>gsw_change_log_d096c42d47c56d10d02bc789826d4338</sys_update_name>
+        <type>1</type>
+    </gsw_change_log>
+</record_update>
